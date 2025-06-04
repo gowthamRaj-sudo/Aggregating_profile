@@ -35,5 +35,5 @@ npm install
 npm start
 
 ```bash
-<!-- # git clone https://github.com/your-username/user-profile-frontend.git -->
-cd Aggregated_profile
+ git clone https://github.com/gowthamRaj-sudo/Aggregating_profile.git
+cd Aggregating_profile
